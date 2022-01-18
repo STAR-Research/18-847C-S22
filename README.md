@@ -98,7 +98,7 @@ Canvas login page: https://canvas.cmu.edu/courses/.
 *  **(April 29) Final report:** Submit a final paper on your work (similar to the papers that we read and discussed in class)
 
 ### Schedule
-The papers due for a review are marked with an (R). Here is the review [template](https://gist.github.com/kasikci/49e7107dfdee281d6f6450b132555550) we will use.
+Please submit a review for all papers on hotcrp. Here is the review [template](https://gist.github.com/kasikci/49e7107dfdee281d6f6450b132555550) we will use.
 
 | Date      | Topic | Readings | Notes |
 | ----------- | ----------- | ----------- | ----------- |
