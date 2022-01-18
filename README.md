@@ -41,7 +41,7 @@ However, it would be helpful if students have a basic understanding of systems a
 **Class lecture and recordings:**  MW 4:40 - 6 pm ET at WEH 4625 (which is contingent on whether/when we move to in-person instruction. Until then, please use the Zoom link available in canvas "announcements".) Class lectures will be audio/video recorded and made available to other students in this course. As part of your participation in this course, you may be recorded.
 
 **Paper reviews:** https://cmu-18847-s22.hotcrp.com/ (Create an account ASAP!)
-To submit a review after logging in, click on the paper you wish you review and follow the prompts to enter your review in terms of "strengths," "weaknesses," etc.
+To submit a review after logging in, click on the paper you wish to review and follow the prompts to enter your review in terms of "strengths," "weaknesses," etc. The paper reviews allotted for each class are due on the day of the class by noon ET. Please submit your review exactly once. You may view other students' reviews after you submit your own review. Feel free to click on the "Good review" button for the reviews you like. Please refrain from clicking on the "Needs work" button for other students' reviews (you will be penalized for this).
 
 **Required Textbook:**  None
 
@@ -98,7 +98,7 @@ Canvas login page: https://canvas.cmu.edu/courses/.
 *  **(April 29) Final report:** Submit a final paper on your work (similar to the papers that we read and discussed in class)
 
 ### Schedule
-Please submit a review for all papers on hotcrp. Here is the review [template](https://gist.github.com/kasikci/49e7107dfdee281d6f6450b132555550) we will use.
+Please submit a review for all papers (from Jan 24) on hotcrp. Here is the review [template](https://gist.github.com/kasikci/49e7107dfdee281d6f6450b132555550) we will use.
 
 | Date      | Topic | Readings | Notes |
 | ----------- | ----------- | ----------- | ----------- |
