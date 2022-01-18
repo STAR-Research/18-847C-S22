@@ -1,2 +1,218 @@
-# 18-847C-S22
-Official page for 18-847C (Spring '22): Data Center Computing
+# 18-847C: Data Center Computing (Spring 2022)
+
+## Announcements
+
+| Date      | Note |
+| ----------- | ----------- |
+| **1/19/22**      | - Fill in the [18-847C student information form](https://forms.gle/aZxPn6Dp5SSaiVUf6)<br /> - If you are enrolled, you should have received an invitation to join the 18-847C slack channel and to create an account on the [paper review hotcrp website](https://cmu-18847-s22.hotcrp.com/) (please create a hotcrp account asap).  <br/> - Final paper templates can be found [here](https://www.usenix.org/conferences/author-resources/paper-templates)<br/> - We intend to make course recordings available. However, a large fraction of your grade is based on class participation.<br/> - You can use the "project-groups" channel on slack to discuss your background and interests (with the ultimate goal of finding your team members) <br/> |
+
+## Administrivia
+
+### Course information
+
+**Instructor:**  Akshitha Sriraman <br/>		
+**Office Location:**  CIC 4122  
+**Email Address:**  akshitha@cmu.edu  
+**Office Hours:**  Thursdays, noon - 1 pm ET (except the first two weeks, which will be on an on-demand basis)		
+
+**Teaching Assistants:**  Youssef Kallel, Shreya Srinarasi <br/>
+**Email Address:**  ykallel@andrew.cmu.edu, ssrinara@andrew.cmu.edu <br/>	
+**Office Hours:**	  TBA	
+
+**Course Support:**  Academic Services Center <br/>
+**Office Location:**  HH 1113 <br/>
+**Website:**  https://www.ece.cmu.edu/academics/academic-services-center.html
+
+**Course Description:**  Hyperscale data centers host a wide range of online services such as cloud computing, social networks, video streaming, online messaging, web search, and online banking. This course will focus on studying the systems software, hardware, and distributed systems technology that compose modern data centers. The course will also expose students to cross-cutting data center issues related to service level objectives, latency unpredictability, total cost of ownership, energy efficiency, scalability, and availability.
+
+The course is a combination of lectures, paper reading, and a semester-long project. Students will read up to two seminal papers per topic and submit brief summaries. In the classroom, we will start with a student presentation of the papers followed by an interactive discussion on the papers in terms of design innovation and challenges. Students will work in groups of three on a semester-long, open-ended research project on a cutting-edge data center topic.
+
+This course is appropriate for graduate and advanced undergraduate students from ECE and CS who are interested in a vertical study of advanced cloud computing and data center systems. It is also appropriate for ECE and CS students who want to gain some experience with a semester-long research project on a cutting-edge computer systems topic.
+
+Students are expected to attend class meetings and actively participate in the discussions. Paper summaries, presentations, and class participation are part of the grade. There is no formal prerequisite for this course. However, it would be helpful if students have a basic understanding of systems and architecture concepts and are comfortable with C/C++ and/or Python programming.
+
+**Number of Units:**  12 	
+
+**Pre-requisites:**  There is no formal prerequisite for this course.   	
+However, it would be helpful if students have a basic understanding of systems and architecture concepts and are comfortable with C/C++ and/or Python programming.
+
+**Graduate Area:**  Computer Systems	
+
+**Class lecture and recordings:**  MW 4:40 - 6 pm ET at WEH 4625 (which is contingent on whether/when we move to in-person instruction. Until then, please use the Zoom link available in canvas "announcements".) Class lectures will be audio/video recorded and made available to other students in this course. As part of your participation in this course, you may be recorded.
+
+**Paper reviews:** https://cmu-18847-s22.hotcrp.com/ (Create an account ASAP!)
+To submit a review after logging in, click on the paper you wish you review and follow the prompts to enter your review in terms of "strengths," "weaknesses," etc.
+
+**Required Textbook:**  None
+
+**Suggested Reading:**  The Datacenter as a Computer
+
+**Other Supplemental Materials:**  Papers that will be shared through the course
+
+**Brief List of Topics Covered:**
+* Microservices
+* Architectural analysis of data center applications
+* Hardware acceleration
+* Compilation techniques to improve data center efficiency
+* Tail latency
+* The killer microsecond problem
+* Concurrency/threading
+* Operating systems for data center applications
+* Resource management and scheduling
+* Resource disaggregation
+* Networking in data centers
+* Data center caching
+* Monitoring infrastructure at scale
+* Data center systems for machine learning
+* Machine learning for data center systems
+* Serverless computing
+* Data center storage
+* Data center energy efficiency
+* Security
+
+**Course Canvas:** 
+Canvas login page: https://canvas.cmu.edu/courses/. 
+
+**Course Website:** You should check this website daily for announcements and handouts. 
+
+**Discussion Platform:**  Students enrolled in the course should have received a Slack invitation. Please contact the instructors via email if you did not receive an invite. 
+
+**Projects:** Students will work in groups of three on a semester-long, open-ended research project on a cutting-edge data center topic.  
+
+**Reading Assignments:** We will read and review roughly two research papers before each class. Each student will present two such papers during the course of the semester. 
+
+### Grading Algorithm
+* **(45%) Course Project:** Students will work in teams of three on a research project related to improving the efficiency of data center systems. Deliverables will include a proposal, mid-term presentation, final presentation, and final research paper. This assignment will provide students with the experience of performing research in the field of large-scale computing.
+* **(20%) Paper Reviews:** We will be writing reviews for the papers that we read in this course. These reviews will help practice critical examination of research papers related to data center computing. Each student can skip a total of three reviews across the semester (choose wisely!). Each miss beyond three will result in 25% decrease in grade for this portion of the course (i.e., 5% out of the 20% alloted for the Paper Reviews component). Missing eight or more paper reviews will result in getting 0% out of the 20% possible for the Paper Reviews component. Reviews will be submitted through [hotCRP](https://cmu-18847-s22.hotcrp.com/). We will discuss the guidelines for writing reviews during the first couple of lectures.
+* **(15%) Paper Presentations:** Each student will be responsible for presenting and leading the discussion of two papers that we read this semester. Each student will be able to choose the papers that they present. We will discuss guidelines for presentations during the first couple of lectures.
+* **(20%) Participation:** Much of the discovery and learning in this course will be driven by in-class discussion. Participation will be assessed by engagement during in-class discussions. Therefore, it is critical that students attend lectures. 
+
+### Project milestones
+
+* **(Jan 24/ASAP) Find project partners:** Find 2-3 like-minded students
+* **(Jan 26) Contact instructors:** Email the instructors with your group's proposal
+* **(Feb 2) Finalize deliverables:** Finalize project deliverables after regular back-and-forth discussions with the instructors
+* **(March 2) First milestone:** Submit your first milestone document that defines and motivates the problem, surveys related work, forms initial hypothesis and idea, and potentially includes some preliminary result
+*  **(April 2) Second milestone:** Submit your second milestone document with a brief description of the idea, your design and implementation details, and a portion of your evaluation
+*  **(April 27) Final presentation:** Prepare a brief presentation (~10 minutes) of your project work
+*  **(April 29) Final report:** Submit a final paper on your work (similar to the papers that we read and discussed in class)
+
+### Schedule
+The papers due for a review are marked with an (R). Here is the review [template](https://gist.github.com/kasikci/49e7107dfdee281d6f6450b132555550) we will use.
+
+| Date      | Topic | Readings | Notes |
+| ----------- | ----------- | ----------- | ----------- |
+| Jan 19 (W) | Introduction to Data center Computing | Introduction ||
+| Jan 24 (M) | [Profiling a Warehouse-Scale Computer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44271.pdf) | Introduction | Guest: Svilen Kanev (Google) |
+| Jan 26 (W) | - [Introduction to microservices](https://www.nginx.com/blog/introduction-to-microservices/) <br/> - [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](http://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.microservices.pdf) | Microservices | |
+| Jan 31 (M) | - [Memory Hierarchy for Web Search](https://web.stanford.edu/~kozyraki/publications/2018.search.hpca.pdf) <br/> - [SoftSKU: Optimizing Server Architectures for Microservice Diversity @Scale](https://scontent-iad3-1.xx.fbcdn.net/v/t39.8562-6/240828384_406601630806128_1251957610431802238_n.pdf?_nc_cat=106&ccb=1-5&_nc_sid=ad8a9d&_nc_ohc=AJdJ-HPRjOEAX_hBulv&_nc_ht=scontent-iad3-1.xx&oh=00_AT_No2yQwC5JXDz6W62EHlppCBBunF7OqhsogAVbGGuHqw&oe=61E0D160) | Microarchitecture analysis | |
+
+
+### Education Objectives (Relationship of Course to Program Outcomes)
+
+The ECE department is accredited by ABET to ensure the quality of your education.  ABET defines 7 Educational Objectives that are fulfilled by the sum total of all the courses you take.  The following list describes which objectives are fulfilled by this course and in what manner they are fulfilled. The objectives are numbered from “1” through “7” in the standard ABET parlance. Those objectives not fulfilled by this course have been omitted from the following list:
+
+* an ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
+* an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+* an ability to communicate effectively with a range of audiences
+* an ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+* an ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+* an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions
+* an ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+
+### ECE Academic Integrity Policy 
+([http://www.ece.cmu.edu/programs-admissions/masters/academic-integrity.html](http://www.ece.cmu.edu/programs-admissions/masters/academic-integrity.html)):
+
+The Department of Electrical and Computer Engineering adheres to the academic integrity policies set forth by Carnegie Mellon University and by the College of Engineering. ECE students should review fully and carefully Carnegie Mellon University's policies regarding Cheating and Plagiarism; Undergraduate Academic Discipline; and Graduate Academic Discipline. ECE graduate student should further review the Penalties for Graduate Student Academic Integrity Violations in CIT outlined in the CIT Policy on Graduate Student Academic Integrity Violations. In addition to the above university and college-level policies, it is ECE's policy that an ECE graduate student may not drop a course in which a disciplinary action is assessed or pending without the course instructor's explicit approval. Further, an ECE course instructor may set his/her own course-specific academic integrity policies that do not conflict with university and college-level policies; course-specific policies should be made available to the students in writing in the first week of class.
+This policy applies, in all respects, to this course.
+
+CMU Academic Integrity Policy ([http://www.cmu.edu/academic-integrity/index.html](http://www.cmu.edu/academic-integrity/index.html)):
+In the midst of self-exploration, the high demands of a challenging academic environment can create situations where some students have difficulty exercising good judgment. Academic challenges can provide many opportunities for high standards to evolve if students actively reflect on these challenges and if the community supports discussions to aid in this process. It is the responsibility of the entire community to establish and maintain the integrity of our university.
+This site is offered as a comprehensive and accessible resource compiling and organizing the multitude of information pertaining to academic integrity that is available from across the university. These pages include practical information concerning policies, protocols and best practices as well as articulations of the institutional values from which the policies and protocols grew. The Carnegie Mellon Code, while not formally an honor code, serves as the foundation of these values and frames the expectations of our community with regard to personal integrity.  
+This policy applies, in all respects, to this course.
+
+### The Carnegie Mellon Code
+
+Students at Carnegie Mellon, because they are members of an academic community dedicated to the achievement of excellence, are expected to meet the highest standards of personal, ethical and moral conduct possible.
+These standards require personal integrity, a commitment to honesty without compromise, as well as truth without equivocation and a willingness to place the good of the community above the good of the self. Obligations once undertaken must be met, commitments kept.
+As members of the Carnegie Mellon community, individuals are expected to uphold the standards of the community in addition to holding others accountable for said standards. It is rare that the life of a student in an academic community can be so private that it will not affect the community as a whole or that the above standards do not apply.
+The discovery, advancement and communication of knowledge are not possible without a commitment to these standards. Creativity cannot exist without acknowledgment of the creativity of others. New knowledge cannot be developed without credit for prior knowledge. Without the ability to trust that these principles will be observed, an academic community cannot exist.
+The commitment of its faculty, staff and students to these standards contributes to the high respect in which the Carnegie Mellon degree is held. Students must not destroy that respect by their failure to meet these standards. Students who cannot meet them should voluntarily withdraw from the university.
+
+This policy applies, in all respects, to this course.
+
+### Carnegie Mellon University's Policy on Cheating 
+([http://www.cmu.edu/academic-integrity/cheating/index.html](http://www.cmu.edu/academic-integrity/cheating/index.html)) states the following:
+According to the University Policy on Academic Integrity, cheating "occurs when a student avails her/himself of an unfair or disallowed advantage which includes but is not limited to:
+* Theft of or unauthorized access to an exam, answer key or other graded work from previous course offerings.
+* Use of an alternate, stand-in or proxy during an examination.
+* Copying from the examination or work of another person or source.
+* Submission or use of falsified data.
+* Using false statements to obtain additional time or other accommodation.
+* Falsification of academic credentials.”
+* This policy applies, in all respects, to this course.  
+
+### Carnegie Mellon University's Policy on Plagiarism 
+([http://www.cmu.edu/academic-integrity/plagiarism/index.html](http://www.cmu.edu/academic-integrity/plagiarism/index.html)) states the following:
+According to the University Policy on Academic Integrity, plagiarism "is defined as the use of work or concepts contributed by other individuals without proper attribution or citation. Unique ideas or materials taken from another source for either written or oral use must be fully acknowledged in academic work to be graded. Examples of sources expected to be referenced include but are not limited to:
+* Text, either written or spoken, quoted directly or paraphrased.
+* Graphic elements.
+* Passages of music, existing either as sound or as notation.
+* Mathematical proofs.
+* Scientific data.
+* Concepts or material derived from the work, published or unpublished, of another person."
+* This policy applies, in all respects, to this course.  
+
+### Carnegie Mellon University's Policy on Unauthorized Assistance 
+(http://www.cmu.edu/academic-integrity/collaboration/index.html) states the following:
+
+According to the University Policy on Academic Integrity, unauthorized assistance "refers to the use of sources of support that have not been specifically authorized in this policy statement or by the course instructor(s) in the completion of academic work to be graded. Such sources of support may include but are not limited to advice or help provided by another individual, published or unpublished written sources, and electronic sources. Examples of unauthorized assistance include but are not limited to:
+Collaboration on any assignment beyond the standards authorized by this policy statement and the course instructor(s).
+Submission of work completed or edited in whole or in part by another person.
+Supplying or communicating unauthorized information or materials, including graded work and answer keys from previous course offerings, in any way to another student.
+Use of unauthorized information or materials, including graded work and answer keys from previous course offerings.
+Use of unauthorized devices.
+Submission for credit of previously completed graded work in a second course without first obtaining permission from the instructor(s) of the second course. In the case of concurrent courses, permission to submit the same work for credit in two courses must be obtained from the instructors of both courses."
+This policy applies, in all respects, to this course.
+
+### Carnegie Mellon University's Policy on Research Misconduct 
+(http://www.cmu.edu/academic-integrity/research/index.html) states the following:
+
+According to the University Policy for Handling Alleged Misconduct in Research, “Carnegie Mellon University is responsible for the integrity of research conducted at the university. As a community of scholars, in which truth and integrity are fundamental, the university must establish procedures for the investigation of allegations of misconduct of research with due care to protect the rights of those accused, those making the allegations, and the university. Furthermore, federal regulations require the university to have explicit procedures for addressing incidents in which there are allegations of misconduct in research.”
+
+The policy goes on to note that “misconduct means:
+
+* fabrication, falsification, plagiarism, or other serious deviation from accepted practices in proposing, carrying out, or reporting results from research;
+
+* material failure to comply with Federal requirements for the protection of researchers, human subjects, or the public or for ensuring the welfare of laboratory animals; or
+
+* failure to meet other material legal requirements governing research.”
+
+“To be deemed misconduct for the purposes of this policy, a ‘material failure to comply with Federal requirements’ or a ‘failure to meet other material legal requirements’ must be intentional or grossly negligent.”
+
+To become familiar with the expectations around the responsible conduct of research, please review the guidelines for Research Ethics published by the Office of Research Integrity and Compliance.
+
+This policy applies, in all respects, to this course.
+
+### Take care of yourself.  
+Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress. 
+
+All of us benefit from support during times of struggle. You are not alone. There are many helpful resources available on campus and an important part of the college experience is learning how to ask for help. Asking for support sooner rather than later is often helpful. 
+
+If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or depression, we strongly encourage you to seek support. Counseling and Psychological Services (CaPS) is here to help: call 412-268-2922 and visit their website at [http://www.cmu.edu/counseling/](http://www.cmu.edu/counseling/). Consider reaching out to a friend, faculty or family member you trust for help getting connected to the support that can help.  
+
+If you have questions about this or your coursework, please let me know.
+
+### Every individual must be treated with respect.
+The ways we are diverse are many and are critical to excellence and an inclusive community. They include but are not limited to: race, color, national origin, sex, disability, age, sexual orientation, gender identity, religion, creed, ancestry, belief, veteran status, or genetic information. We at CMU, will work to promote diversity, equity and inclusion because it is just and necessary for innovation.  Therefore, while we are imperfect, we will work inside and outside of our classrooms, to increase our commitment to build and sustain a community that embraces these values.
+
+It is the responsibility of each of us to create a safer and more inclusive environment. Bias incidents, whether intentional or unintentional in their occurrence, contribute to creating an unwelcoming environment for individuals and groups at the university. If you experience or observe unfair or hostile treatment on the basis of identity, we encourage you to speak out for justice and support in the moment and and/or share your experience anonymously using the following resources:
+
+### Center for Student Diversity and Inclusion: 
+csdi@andrew.cmu.edu, (412) 268-2150,  [www.cmu.edu/student-diversity](www.cmu.edu/student-diversity) 
+Report-It online anonymous reporting platform: [www.reportit.net](www.reportit.net) username: tartans password: plaid
+
+All reports will be acknowledged, documented and a determination will be made regarding a course of action.” All experiences shared will be used to transform the campus climate. 
+ 
+
+
