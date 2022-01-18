@@ -102,7 +102,7 @@ Please submit a review for all papers (from Jan 24) on hotcrp. Here is the revie
 
 | Date      | Topic | Readings | Notes |
 | ----------- | ----------- | ----------- | ----------- |
-| Jan 19 (W) | Introduction to Data center Computing | Introduction ||
+| Jan 19 (W) | Introduction to Data center Computing | Introduction |[Form](https://forms.gle/aZxPn6Dp5SSaiVUf6) due|
 | Jan 24 (M) | [Profiling a Warehouse-Scale Computer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44271.pdf) | Introduction | Guest: Svilen Kanev (Google), Find project partners |
 | Jan 26 (W) | - [Introduction to microservices](https://www.nginx.com/blog/introduction-to-microservices/) (review not required) <br/> - [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](http://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.microservices.pdf) | Microservices | Contact instructors about your project|
 | Jan 31 (M) | - [Memory Hierarchy for Web Search](https://web.stanford.edu/~kozyraki/publications/2018.search.hpca.pdf) <br/> - [SoftSKU: Optimizing Server Architectures for Microservice Diversity @Scale](https://scontent-iad3-1.xx.fbcdn.net/v/t39.8562-6/240828384_406601630806128_1251957610431802238_n.pdf?_nc_cat=106&ccb=1-5&_nc_sid=ad8a9d&_nc_ohc=AJdJ-HPRjOEAX_hBulv&_nc_ht=scontent-iad3-1.xx&oh=00_AT_No2yQwC5JXDz6W62EHlppCBBunF7OqhsogAVbGGuHqw&oe=61E0D160) | Microarchitecture analysis | |
