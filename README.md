@@ -90,7 +90,7 @@ Canvas login page: https://canvas.cmu.edu/courses/.
 ### Project milestones
 
 * **(Jan 24/ASAP) Find project partners:** Create a group of three like-minded students
-* **(Jan 26) Contact instructors:** Email the instructors with your group's proposal
+* **(Jan 26) Contact instructors:** Email the instructors with your group's proposal (~paragraphs)
 * **(Feb 2) Finalize deliverables:** Finalize project deliverables after regular back-and-forth discussions with the instructors
 * **(March 2) First milestone:** Submit your first milestone document that defines and motivates the problem, surveys related work, forms initial hypothesis and idea, and potentially includes some preliminary result
 *  **(April 4) Second milestone:** Submit your second milestone document with a brief description of the idea, your design and implementation details, and a portion of your evaluation
