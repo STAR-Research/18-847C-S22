@@ -102,7 +102,7 @@ Please submit a review for all papers (from Jan 24) on hotcrp. Here is the revie
 
 | Date      | Topic | Readings | Notes | Presenter |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Jan 19 (W) <br/> ([slides](https://drive.google.com/file/d/1rUD64nYI9CqlwQBVg3f2-iSoioYxN_R0/view?usp=sharing))| Introduction to Data center Computing | Introduction |[Form](https://forms.gle/aZxPn6Dp5SSaiVUf6) due|
+| Jan 19 (W) <br/> ([slides](https://drive.google.com/file/d/1rUD64nYI9CqlwQBVg3f2-iSoioYxN_R0/view?usp=sharing))<br/> ([lecture](https://ece.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=57f07c3c-ee5c-48e8-930e-ae2300021eab))| Introduction to Data center Computing | Introduction |[Form](https://forms.gle/aZxPn6Dp5SSaiVUf6) due|
 | Jan 24 (M) | [Profiling a Warehouse-Scale Computer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44271.pdf) | Introduction | Guest: Svilen Kanev (Google), Find project partners | Akshitha Sriraman |
 | Jan 26 (W) | - [Introduction to microservices](https://www.nginx.com/blog/introduction-to-microservices/) (read paper; review not required) <br/> - [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](http://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.microservices.pdf) | Microservices | Contact instructors about your project| |
 | Jan 31 (M) | - [Memory Hierarchy for Web Search](https://web.stanford.edu/~kozyraki/publications/2018.search.hpca.pdf) <br/> - [SoftSKU: Optimizing Server Architectures for Microservice Diversity @Scale](https://dl.acm.org/doi/10.1145/3307650.3322227) | Microarchitecture analysis | |  |
