@@ -97,6 +97,15 @@ Canvas login page: https://canvas.cmu.edu/courses/.
 *  **(April 27) Final presentation:** Prepare a brief presentation (~10 minutes) of your project work
 *  **(April 29) Final report:** Submit a final paper on your work (similar to the papers that we read and discussed in class)
 
+### Compute resource options for your project
+
+* [The ECE Numbers cluster](https://userguide.its.cit.cmu.edu/research-computing/computer-clusters/): You will likely have to share these resources with other folks. If your project involves fine-grained performance measurements on real hardware, this might not be the best option since you might encounter intereference effects from co-runners.
+* [The ECE Data Science cloud](https://userguide.its.cit.cmu.edu/research-computing/computer-clusters/): You will likely have to share these resources with other folks. If your project involves fine-grained performance measurements on real hardware, this might not be the best option since you might encounter intereference effects from co-runners.
+* [CloudLab](https://www.cloudlab.us/): Please contact the instructor with your email addresses. The instructor will create a project on CloudLab for you and add you to the project. You will get dedicated access to machine using CloudLab and will therefore not encounter intereference effects. 
+* [Pittsburgh Supercomputing center](https://www.psc.edu/): If you need substantial computing, we can do an education allocation at the Pittsburg Supercomputing Center. Here, we can get access to the Bridges and Bridges-DL machine with 60,000 CPU cores and about 80+ A100 GPUs. Of course you wouldn't use the entire machine, but you have flexibility.
+* [Google Cloud Platform](https://cloud.google.com/): Contact the instructor if you need access to GCP educational credits. If your project involves fine-grained performance measurements on real hardware, this might not be the best option since it might be harder to measure hardware performance counters, you might face interference effects from co-runners, might face overheads from virtualization, etc.
+* Please contact the instructor if none of the above computing options work for you. We will work with you to meet your needs as best as we can. 
+
 ### Schedule
 Please submit a review for all papers (from Jan 24) on hotcrp. Here is the review [template](https://gist.github.com/kasikci/49e7107dfdee281d6f6450b132555550) we will use.
 
