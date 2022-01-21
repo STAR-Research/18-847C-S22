@@ -249,7 +249,7 @@ Report-It online anonymous reporting platform: [www.reportit.net](www.reportit.n
 All reports will be acknowledged, documented and a determination will be made regarding a course of action.” All experiences shared will be used to transform the campus climate. 
  
 ### Disability Accommodation
-* [ABLE CMU] (https://thebridge.cmu.edu/organization/able-cmu)
-* Here for You (https://thebridge.cmu.edu/organization/here-for-you)
+* [ABLE CMU](https://thebridge.cmu.edu/organization/able-cmu)
+* [Here for You](https://thebridge.cmu.edu/organization/here-for-you)
 * Acute Medical Episodes: For example an accident, emergency surgery, etc: Seek a third party opinion (Diane Dawson at UHS). This offers confidential, retroactive excuses for exams/homeworks.
 
