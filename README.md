@@ -5,6 +5,7 @@
 | Date      | Note |
 | ----------- | ----------- |
 | **1/19/22**      | - Fill in the [18-847C student information form](https://forms.gle/aZxPn6Dp5SSaiVUf6)<br /> - If you are enrolled, you should have received an invitation to join the 18-847C slack channel and to create an account on the [paper review hotcrp website](https://cmu-18847-s22.hotcrp.com/) (please create a hotcrp account asap).  <br/> - Final paper templates can be found [here](https://www.usenix.org/conferences/author-resources/paper-templates)<br/> - We intend to make course recordings available. However, a large fraction of your grade is based on class participation.<br/> - You can use the "project-groups" channel on slack to discuss your background and interests (with the ultimate goal of finding your team members) <br/> |
+| **1/24/22** | - Paper presentation schedule was out last week. Please check your assignment <br/> - You should have received an invitation to view a document with a list of potential research directions for your course project. <br/> - You should have ideally found your project partners by today. Please continue to use the #project-groups Slack channel for this. <br/> - Start preparing a paragraph or two to let us know about the broad research direction of your project (due Jan 26) <br/>| 
 
 ## Administrivia
 
