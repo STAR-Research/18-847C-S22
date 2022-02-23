@@ -14,7 +14,7 @@
 **Instructor:**  Akshitha Sriraman <br/>		
 **Office Location:**  CIC 4122  
 **Email Address:**  akshitha@cmu.edu  
-**Office Hours:**  Thursdays, noon - 1 pm ET (except the first two weeks, which will be on an on-demand basis)		
+**Office Hours:**  Mondays, 3:30 - 4:30 pm ET 
 
 **Teaching Assistants:**  Youssef Kallel, Shreya Srinarasi <br/>
 **Email Address:**  ykallel@andrew.cmu.edu, ssrinara@andrew.cmu.edu <br/>	
