@@ -139,9 +139,8 @@ Please submit a review for all papers (from Jan 24) on hotcrp. Here is the revie
 | April 13 (M) | - [Pocket: Elastic Ephemeral Storage for Serverless Analytics](https://www.usenix.org/system/files/osdi18-klimovic.pdf) <br/> - [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) | Datacenter storage | | 1. Nikhil Arora <br/> 2. Sanil Rao  |
 | April 18 (M) | - [Bolt: I Know What You Did Last Summer... in the Cloud](https://www.csl.cornell.edu/~delimitrou/papers/2017.asplos.bolt) <br/> - [Hey, You, Get Off of My Cloud: Exploring Information Leakage in Third-Party Compute Clouds](https://hovav.net/ucsd/dist/cloudsec.pdf) | Security | | 1. Upasana Sridhar <br/> 2. Syeda Sheherbano Rizvi |
 | April 20 (W) | Papers decided by the class |  | |  |
-| April 25 (M) | Papers decided by the class |  | |  |
-| April 27 (W) | Project presentations |  | |  |
-| April 29 (F) | Final report due |  | |  |
+| April 25 (M) | Project presentations |  | |  |
+| April 27 (W) | Final report due |  | |  |
 
 ### Education Objectives (Relationship of Course to Program Outcomes)
 
