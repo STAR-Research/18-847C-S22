@@ -95,8 +95,8 @@ Canvas login page: https://canvas.cmu.edu/courses/.
 * **(Feb 2) Finalize deliverables:** Finalize project deliverables after regular back-and-forth discussions with the instructors
 * **(March 2) First milestone:** Submit your first milestone document that defines and motivates the problem, surveys related work, forms initial hypothesis and idea, and potentially includes some preliminary result (email instructors)
 *  **(April 4) Second milestone:** Submit your second milestone document with a brief description of the idea, your design and implementation details, and a portion of your evaluation (email instructors)
-*  **(April 27) Final presentation:** Prepare a brief presentation (~10 minutes) of your project work
-*  **(April 29) Final report:** Submit a final paper on your work (similar to the papers that we read and discussed in class)
+*  **(April 25) Final presentation:** Prepare a brief presentation (~10 minutes) of your project work
+*  **(April 27) Final report:** Submit a final paper on your work (similar to the papers that we read and discussed in class)
 
 ### Compute resource options for your project
 
